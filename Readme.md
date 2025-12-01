@@ -1,0 +1,48 @@
+### Day 01 — Deepen Core JavaScript Understanding:
+- Functions & Execution Mastery (1 hour)
+  - Closures
+  - Hoisting
+  - Scope
+  - Execution
+  - Pure vs impure functions
+- Arrays & Modern Methods (2 hours)
+  - map
+  - filter
+  - reduce
+  - find
+  - some
+  - every
+  - sort
+- Objects & Immutability (1 hour):
+  - destructuring
+  - spread operator
+  - computed properties
+- Understanding (this) like a pro (1.5 hours):
+  - implicit / explicit / new binding
+  - arrow functions and lexical this
+- Async JS (2 hours):
+  - Promises
+  - async/await
+  - event loop (macro/micro tasks)
+  - Fetch API
+
+### Day 02 — Real-World Browser Power:
+- DOM Patterns & Performance (2 hours)
+  - event delegation
+  - avoiding reflow/repaint
+  - template rendering
+- Modular JavaScript & Architecture / No frameworks — just modules (2 hours)
+  - separation of concerns
+  - reusable components
+- Local Storage + Data Persistence (1 hour)
+  - Build a real feature that remembers user actions.
+- Error Handling & Defensive JS (1 hour)
+  - try/catch
+  - optional chaining
+  - default values
+  - type guarding
+- Build a Mini Project (3 hours)
+  - A real-time character counter
+  - A notes app with local storage
+  - Shopping cart (no backend, pure JS)
+  - Weather app using fetch
