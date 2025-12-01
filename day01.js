@@ -4,7 +4,8 @@ Day 01 — Deepen Core JavaScript Understanding:
         01 - Closures
         02 - Hoisting
         03 - Scope
-        04 - Pure vs impure functions
+        04 - Execution
+        05 - Pure vs impure functions
     02 - Arrays & Modern Methods (2 hours)
         01 - map
         02 - filter
