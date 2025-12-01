@@ -1,6 +1,6 @@
 
 // ===================================================================================================================//
-// Day 01) Deepen Core JavaScript Understanding -> 01) Functions & Execution Mastery -> 03) Scope & Lexical Environment:
+// Day-001) Deepen Core JavaScript Understanding -> 01) Functions & Execution Mastery -> 03) Scope & Lexical Environment:
 // ===================================================================================================================//
 /*
     - Scope & Lexical Environment (The heart of JavaScript’s reasoning system):

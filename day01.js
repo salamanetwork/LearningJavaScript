@@ -1,5 +1,5 @@
 /*
-Day 01 — Deepen Core JavaScript Understanding:
+Day-001 — Deepen Core JavaScript Understanding:
     01️ - Functions & Execution Mastery (1 hour)
         01 - Closures
         02 - Hoisting

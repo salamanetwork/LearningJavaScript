@@ -1,6 +1,6 @@
 
 // ===================================================================================================================//
-// Day 01) Deepen Core JavaScript Understanding -> 01) Functions & Execution Mastery -> 01) Closures:
+// Day-001) Deepen Core JavaScript Understanding -> 01) Functions & Execution Mastery -> 01) Closures:
 // ===================================================================================================================//
 /*
 - What Is a Closure?

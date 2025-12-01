@@ -1,7 +1,7 @@
 
 
 // ===================================================================================================================//
-// Day 01) Deepen Core JavaScript Understanding -> 01) Functions & Execution Mastery -> 02) Hoisting & Execution Context
+// Day-001) Deepen Core JavaScript Understanding -> 01) Functions & Execution Mastery -> 02) Hoisting & Execution Context
 // ===================================================================================================================//
 
 // Welcome to the JavaScript Engine’s brain.

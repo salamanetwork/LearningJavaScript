@@ -1,6 +1,6 @@
 
 // ===================================================================================================================//
-// Day 01) Deepen Core JavaScript Understanding -> 01) Functions & Execution Mastery -> 03) Execution & Call Stack:
+// Day-001) Deepen Core JavaScript Understanding -> 01) Functions & Execution Mastery -> 03) Execution & Call Stack:
 // ===================================================================================================================//
 /*
     - Execution Order & Call Stack (The runtime brain):
