@@ -154,9 +154,9 @@ Example:
 
 - If you copy-paste code more than twice — refactor it into a function.
 
-    function formatCurrency(value){
-        return `$${value.toFixed(2)}`;
-    }
+        function formatCurrency(value){
+            return `$${value.toFixed(2)}`;
+        }
 
 ## 🎯 12. Avoid Global Variables
 
